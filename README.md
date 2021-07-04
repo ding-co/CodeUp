@@ -1,2 +1,2 @@
-# codeup
-Codeup problem solving using Python3 and Java
+# codeup-python
+Codeup problem solving using Python3 in VS Code
